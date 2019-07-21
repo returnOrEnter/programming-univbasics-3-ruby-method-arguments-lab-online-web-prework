@@ -12,3 +12,6 @@ end
   
 introduction_with_language("Dan", "Ember.js")
 introduction_with_language("Josh", "React")
+
+def introduction_with_language_optional(name, language)
+  puts 
